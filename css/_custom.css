@@ -1,0 +1,9 @@
+.pad {
+	padding-top: 10px !important;
+}
+.owl-carousel .owl-item img {
+	display: block !important;
+	width: 40% !important;
+	position: relative !important;
+	left: 29% !important;
+}
